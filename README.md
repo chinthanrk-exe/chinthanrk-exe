@@ -1,5 +1,6 @@
-# 💫 About Me:
- Passionate about technology, programming, and open-source.<br>Currently learning and improving my skills in: Python,Java,HTML,etc...<br> Interested in software development, automation, Discord development, and creating useful projects.<br>Always learning, building, and exploring new technologies.
+# :magic_wand: About Me:
+
+Passionate about technology, programming, and open-source.<br>Currently learning and improving my skills in: Python,Java,HTML,etc...<br> Interested in software development, automation, Discord development, and creating useful projects.<br>Always learning, building, and exploring new technologies.
 
 
 ## 🌐 Socials:
