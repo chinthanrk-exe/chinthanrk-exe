@@ -12,7 +12,7 @@ Passionate about technology, programming, and open-source.<br>Currently learning
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=chinthanrk-exe&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=chinthanrk-exe&theme=dark&hide_border=false)<br/>
-!
+
 ---
 [![](https://komarev.com/ghpvc/?username=chinthanrk-exe&icon=0&color=0)](https://visitcount.itsvg.in)
 
